@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p12345-e12345678.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/nissan-poc/main
+    url: https://a195-103-43-112-97.ngrok-free.app/bin/franklin.delivery/deepprakash345/xwalk-test/main
     type: "markup"
     suffix: ".html"
