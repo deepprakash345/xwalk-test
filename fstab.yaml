@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://a195-103-43-112-97.ngrok-free.app/bin/franklin.delivery/deepprakash345/xwalk-test/main
+    url: https://4956-103-43-112-97.ngrok-free.app/bin/franklin.delivery/deepprakash345/xwalk-test/main
     type: "markup"
     suffix: ".html"
